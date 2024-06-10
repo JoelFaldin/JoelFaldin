@@ -1,6 +1,10 @@
 <h2 align="center"> Hello! ✌️ Joel here! 🌠 </h2>
 
-![bottomtext2](https://github.com/JoelFaldin/JoelFaldin/assets/135843731/308b07f6-e183-49c6-980d-e6e89026d584)
+<center>
+  
+  ![bottomtext2](https://github.com/JoelFaldin/JoelFaldin/assets/135843731/308b07f6-e183-49c6-980d-e6e89026d584)
+  
+</center>
 
 
 * 🥝 `I am:` Joel, also known as _Jowel_ or _Joelers_.
@@ -69,4 +73,8 @@ I watch anime, ocasionally read manga and light novels. Pretty nice.
 
 -----
 
+<center>
+
 ![my neighbor totoro wallpaper](https://github.com/JoelFaldin/JoelFaldin/assets/135843731/c629d7fd-4d32-4cd9-ab0a-f4b2327b0df4)
+
+</center>
