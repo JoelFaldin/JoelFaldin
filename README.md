@@ -75,6 +75,6 @@ I watch anime, ocasionally read manga and light novels. Pretty nice.
 
 <center>
 
-![my neighbor totoro wallpaper](https://github.com/JoelFaldin/JoelFaldin/assets/135843731/c629d7fd-4d32-4cd9-ab0a-f4b2327b0df4)
+![my neighbor totoro wallpaper](https://github.com/JoelFaldin/JoelFaldin/assets/135843731/8a5c113c-0010-4890-bef3-31178725b1f4)
 
 </center>
