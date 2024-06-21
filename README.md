@@ -28,30 +28,25 @@ My main langage is Spanish, but I consider myself pretty decent at English. Some
 I watch anime, ocasionally read manga and light novels. Pretty nice.
 
 ----
-<h4 align="center">🖥️ Programming Languages (including HTML and CSS)</h4>
+<h4>🖥️ Technologies</h4>
 
-<p align="center">
-  <img alt="HTML" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img alt="JS" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img alt="TS" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-  <img alt="MD" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"/>
-  <img alt="NODEJS" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-</p>
+<div align="center">
 
-</br>
+![Static Badge](https://img.shields.io/badge/HTML%20-%20%23222222?logo=html5)
+![Static Badge](https://img.shields.io/badge/CSS-%20%23222222?logo=css3)
+![Static Badge](https://img.shields.io/badge/JavaScript-%20%23222222?logo=javascript)
+![Static Badge](https://img.shields.io/badge/TypeScript-%20%23222222?logo=typescript)
+![Static Badge](https://img.shields.io/badge/Markdown%20-%20%23222222?logo=markdown)
+![Static Badge](https://img.shields.io/badge/NodeJS%20-%20%23222222?logo=nodedotjs)
 
-<h4 align="center">🔨 Frameworks and Libraries</h4>
-<p align="center">
-  <img alt="REACT" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img alt="ANGULAR" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
-  <img alt="EXPRESS" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
-  <img alt="NEXT" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-  <img alt="NEST" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
-  <img alt="TLCSS" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
-</p>
+![Static Badge](https://img.shields.io/badge/React%20-%20%23222222?logo=react)
+![Static Badge](https://img.shields.io/badge/Angular%20-%20%23222222?logo=angular)
+![Static Badge](https://img.shields.io/badge/Express%20-%20%23222222?logo=express)
+![Static Badge](https://img.shields.io/badge/NextJS%20-%20%23222222?logo=nextdotjs)
+![Static Badge](https://img.shields.io/badge/NestJS%20-%20%23222222?logo=nestjs)
+![Static Badge](https://img.shields.io/badge/TailwindCSS%20-%20%23222222?logo=tailwindcss)
 
-</br>
+</div>
 
 ----
 
