@@ -7,9 +7,9 @@
 </center>
 
 
-* 🥝 `I am:` Joel, also known as _Jowel_ or _Joelers_.
-* 🎂 `Im:` 21 years old!
-*  🍃`Im learning:` Full Stack Web development.
+* 🥝 `My name is:` Joel, also known as _Jowel_ or _Joelers_.
+* 🎂 `I'm:` 21 years old!
+*  🍃`I'm learning:` Full Stack Web development.
 * ⛩️ `Interested in:` Building proyects and improving my skills!
 * 🌍 `I live in:` Chile! 🇨🇱🇨🇱🇨🇱
 * 🔭 `Working on:` A collaborative [repo](https://github.com/IgnacioBarraza/Proyecto_IngenieriaSoftware_SID) with my mates!
@@ -19,13 +19,13 @@
 
 Welcome to my Github profile! Im a chilean 🇨🇱 informatics student that enjoys learning new things.
 
-I like playing videogames whenever I can. Particularly, I play Minecraft survival vanilla, Terraria, Hollow Knight, CS:GO, Pokemon and others. I've dedicated way too many hours to my minectaft world, there's no stopping now.
+I like playing videogames whenever I can. Particularly, I play Minecraft survival vanilla, Terraria, Hollow Knight, CS:GO, Pokemon and others.
 
 My main langage is Spanish, but I consider myself pretty decent at English. Some time ago I tried learning a bit of japanese 🏯, but I haven't put too much effort into it lately. 花が舞い始める 🌻
 
-(I used to have a good hand at hiragana, katakana was a bit hard for me, and I learned some kanjis here and there)
+(I used to have a good hand at hiragana, but katakana kept being a bit hard for me. And I learned some kanjis here and there.)
 
-I watch anime, ocasionally read manga and light novels. Pretty nice.
+I ocasionally watch anime, mangas and read light novels. Pretty nice.
 
 ----
 <h4>🖥️ Technologies</h4>
