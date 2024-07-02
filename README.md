@@ -9,7 +9,7 @@
 
 * 🥝 `My name is:` Joel, also known as _Jowel_ or _Joelers_.
 * 🎂 `I'm:` 21 years old!
-*  🍃`I'm learning:` Full Stack Web development.
+* 🍃 `I'm learning:` Full Stack Web development.
 * ⛩️ `Interested in:` Building proyects and improving my skills!
 * 🌍 `I live in:` Chile! 🇨🇱🇨🇱🇨🇱
 * 🔭 `Working on:` A collaborative [repo](https://github.com/IgnacioBarraza/Proyecto_IngenieriaSoftware_SID) with my mates!
