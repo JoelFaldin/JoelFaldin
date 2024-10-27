@@ -12,7 +12,7 @@
 * 🍃 `I'm learning:` Web development.
 * ⛩️ `Interested in:` Building proyects and improving my skills!
 * 🌍 `I live in:` Chile! 🇨🇱🇨🇱🇨🇱
-* 🔭 `Working on:` Migrating a React+Vite project to NextJS! [Repo](https://github.com/IgnacioBarraza/BlackSharkWeb) and building the [Pomodoro-Totoro](https://github.com/JoelFaldin/pomodoro-totoro) project!
+* 🔭 `Working on:` Migrating a React+Vite project to NextJS! Visit the repo [here](https://github.com/IgnacioBarraza/BlackSharkWeb). And learning new stuff!
 
 ----
 <h3>🌃 More about me</h3>
