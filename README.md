@@ -66,8 +66,9 @@ I ocasionally watch anime, mangas and read light novels.
 
 <span align="center">
   
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelFaldin&show_icons=true&theme=cobalt)</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelFaldin&layout=compact&theme=cobalt)
+![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelFaldin&show_icons=true&theme=dark#gh-dark-mode-only)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelFaldin&layout=compact&theme=dark#gh-dark-mode-only)
   
 </span>
 
