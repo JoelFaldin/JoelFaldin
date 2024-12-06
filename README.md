@@ -12,7 +12,7 @@
 * 🍃 `I'm learning:` Web development.
 * ⛩️ `Interested in:` Building proyects and improving my skills!
 * 🌍 `I live in:` Chile! 🇨🇱🇨🇱🇨🇱
-* 🔭 `Working on:` Migrating a React+Vite project to NextJS! Visit the repo [here](https://github.com/IgnacioBarraza/BlackSharkWeb). And learning new stuff!
+* 🔭 `Working on:` Refactoring a React+Vite e-commerce repo (Visit it [here](https://github.com/IgnacioBarraza/BlackSharkWeb)!). And learning new stuff!
 
 ----
 <h3>🌃 More about me</h3>
