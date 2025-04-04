@@ -12,7 +12,7 @@
 * 🍃 `I'm learning:` Web development.
 * ⛩️ `Interested in:` Building proyects and improving my skills!
 * 🌍 `I live in:` Chile! 🇨🇱🇨🇱🇨🇱
-* 🔭 `Working on:` Refactoring a React+Vite e-commerce repo (Visit it [here](https://github.com/IgnacioBarraza/BlackSharkWeb)!). Trying to learn Neovim!!!
+* 🔭 `Working on:` Refactoring a React+Vite e-commerce repo (Visit it [here](https://github.com/IgnacioBarraza/BlackSharkWeb)!). Trying to learn Neovim and [Angular](https://angular.dev/)!!!
 * 🌱 `Status:` In the [Hyprland](https://hyprland.org/) era!
 
 ----
