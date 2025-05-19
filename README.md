@@ -12,7 +12,7 @@
 * 🍃 `I'm learning:` Web development.
 * ⛩️ `Interested in:` Building proyects and improving my skills!
 * 🌍 `I live in:` Chile! 🇨🇱🇨🇱🇨🇱
-* 🔭 `Working on:` Trying to learn Java with Netbeans and IntelliJ Idea!!!
+* 🔭 `Working on:` Trying to learn Java with Nvim!!! Using the [Kanso Theme](https://github.com/webhooked/kanso.nvim)!
 * 🌱 `Status:` In the [Hyprland](https://hyprland.org/) era!
 
 ----
