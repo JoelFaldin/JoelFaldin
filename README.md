@@ -8,12 +8,12 @@
 
 
 * 🥝 `My name is:` Joel, also known as _Jowel_ or _Joelers_.
-* 🎂 `I'm:` 21 years old!
-* 🍃 `I'm learning:` Web development.
+* 🎂 `I'm:` 22 years old!
+* 🍃 `I'm learning:` Programming (web development and systems programming).
 * ⛩️ `Interested in:` Building proyects and improving my skills!
 * 🌍 `I live in:` Chile! 🇨🇱🇨🇱🇨🇱
 * 🔭 `Working on:` Trying to learn Java with Nvim!!! Using the [Kanso Theme](https://github.com/webhooked/kanso.nvim)!
-* 🌱 `Status:` In the [Hyprland](https://hyprland.org/) era! Also creating a 2D game in Unity6!
+* 🌱 `Status:` In the [Hyprland](https://hyprland.org/) era!
 
 ----
 <h3>🌃 More about me</h3>
