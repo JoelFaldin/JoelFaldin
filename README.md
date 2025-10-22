@@ -12,8 +12,8 @@
 * 🍃 `I'm learning:` Programming (web development and systems programming).
 * ⛩️ `Interested in:` Building proyects and improving my skills!
 * 🌍 `I live in:` Chile! 🇨🇱🇨🇱🇨🇱
-* 🔭 `Working on:` Trying to learn Java with Nvim!!! Using the [Kanso Theme](https://github.com/webhooked/kanso.nvim)!
-* 🌱 `Status:` In the [Hyprland](https://hyprland.org/) + Arch Linux era!
+* 🔭 `Working on:` Trying to learn C and diving into Systems Programming! Also working on my university's final project.
+* 🌱 `Status:` In the [Hyprland](https://hyprland.org/) + Arch Linux era! Via [Omarchy](https://omarchy.org/) (thanks to DHH!)
 
 ----
 <h3>🌃 More about me</h3>
