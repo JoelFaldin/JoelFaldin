@@ -7,7 +7,7 @@
 </center>
 
 
-* 🥝 `My name is:` Joel, also known as _Jowel_ or _Joelers_.
+* 🥝 `My name is:` Joel!
 * 🎂 `I'm:` 22 years old!
 * 🍃 `I'm learning:` Programming (web development and systems programming).
 * ⛩️ `Interested in:` Building proyects and improving my skills!
@@ -18,7 +18,7 @@
 ----
 <h3>🌃 More about me</h3>
 
-Welcome to my Github profile! Im a chilean 🇨🇱 informatics student that enjoys learning new things.
+Welcome to my Github profile! Im a chilean 🇨🇱 computer science student that enjoys learning new things.
 
 I like playing videogames whenever I can. Particularly, I play Minecraft survival vanilla and Terraria, among others.
 
@@ -27,6 +27,8 @@ My main langage is Spanish, but I consider myself pretty decent at English. Some
 (I used to have a good hand at hiragana, but katakana kept being a bit hard for me. And I learned some kanjis here and there.)
 
 I ocasionally watch anime, mangas and read light novels.
+
+I have created many small web projects to try out frameworks and tools. Lately, I have been diving into systems programming with C and Rust. It's fun!
 
 ----
 
@@ -39,6 +41,7 @@ I ocasionally watch anime, mangas and read light novels.
   ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
   [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
   [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
   [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev)
   [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
