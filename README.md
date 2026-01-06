@@ -13,7 +13,7 @@
 * ⛩️ `Interested in:` Building proyects and improving my skills!
 * 🌍 `I live in:` Chile! 🇨🇱🇨🇱🇨🇱
 * 🔭 `Working on:` Trying to learn C and diving into Systems Programming! Also working on my university's final project.
-* 🌱 `Status:` In the [Hyprland](https://hyprland.org/) + Arch Linux era! Via [Omarchy](https://omarchy.org/) (thanks to DHH!)
+* 🌱 `Status:` In the [Hyprland](https://hyprland.org/) + Arch Linux era! Via [Omarchy](https://omarchy.org/) (thanks to DHH!) Also in the process of graduating uni!!
 
 ----
 <h3>🌃 More about me</h3>
