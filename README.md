@@ -12,8 +12,8 @@
 * 🍃 `I'm learning:` Programming (web development and systems programming).
 * ⛩️ `Interested in:` Building proyects and improving my skills!
 * 🌍 `I live in:` Chile! 🇨🇱🇨🇱🇨🇱
-* 🔭 `Working on:` Trying to learn C and diving into Systems Programming! Also working on my university's final project.
-* 🌱 `Status:` In the [Hyprland](https://hyprland.org/) + Arch Linux era! Via [Omarchy](https://omarchy.org/) (thanks to DHH!) Also in the process of graduating uni!!
+* 🔭 `Working on:` Trying to learn C and diving into Systems Programming!
+* 🌱 `Status:` In the [Hyprland](https://hyprland.org/) + Arch Linux era! Via [Omarchy](https://omarchy.org/) (thanks to DHH!). Oficially gratuated university!
 
 ----
 <h3>🌃 More about me</h3>
