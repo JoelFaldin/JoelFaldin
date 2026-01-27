@@ -14,6 +14,7 @@
 * 🌍 `I live in:` Chile! 🇨🇱🇨🇱🇨🇱
 * 🔭 `Working on:` Trying to learn C and diving into Systems Programming!
 * 🌱 `Status:` In the [Hyprland](https://hyprland.org/) + Arch Linux era! Via [Omarchy](https://omarchy.org/) (thanks to DHH!). Oficially gratuated university!
+* Now what??
 
 ----
 <h3>🌃 More about me</h3>
