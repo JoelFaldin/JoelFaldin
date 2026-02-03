@@ -1,39 +1,11 @@
-<h2 align="center"> Hello! ✌️ Joel here! 🌠 </h2>
+## Hey! Joel here!
 
-<center>
-  
-  ![bottomtext2](https://github.com/JoelFaldin/JoelFaldin/assets/135843731/308b07f6-e183-49c6-980d-e6e89026d584)
-  
-</center>
+* Learning programming (web development and systems programming).
+* Just graduated University!
+* From Chile! 🇨🇱
+* Linux enthusiast. Currently using [Hyprland](https://hyprland.org/) (by [Vaxry](https://github.com/vaxerski)) via [Omarchy](https://omarchy.org/).
 
-
-* 🥝 `My name is:` Joel!
-* 🎂 `I'm:` 22 years old!
-* 🍃 `I'm learning:` Programming (web development and systems programming).
-* ⛩️ `Interested in:` Building proyects and improving my skills!
-* 🌍 `I live in:` Chile! 🇨🇱🇨🇱🇨🇱
-* 🔭 `Working on:` Trying to learn C and diving into Systems Programming!
-* 🌱 `Status:` In the [Hyprland](https://hyprland.org/) + Arch Linux era! Via [Omarchy](https://omarchy.org/) (thanks to DHH!). Oficially gratuated university!
-* Now what??
-
-----
-<h3>🌃 More about me</h3>
-
-Welcome to my Github profile! Im a chilean 🇨🇱 computer science student that enjoys learning new things.
-
-I like playing videogames whenever I can. Particularly, I play Minecraft survival vanilla and Terraria, among others.
-
-My main langage is Spanish, but I consider myself pretty decent at English. Some time ago I tried learning a bit of japanese 🏯, but I haven't put too much effort into it lately. はじめまして！
-
-(I used to have a good hand at hiragana, but katakana kept being a bit hard for me. And I learned some kanjis here and there.)
-
-I ocasionally watch anime, mangas and read light novels.
-
-I have created many small web projects to try out frameworks and tools. Lately, I have been diving into systems programming with C and Rust. It's fun!
-
-----
-
-#### Frameworks, libraries and tools I use! 🖥️🖥️🖥️
+## Tech Stack
 
 <div align="center">
   
@@ -70,10 +42,7 @@ I have created many small web projects to try out frameworks and tools. Lately, 
   
 </div>
 
-----
-
-<h4>🌐 My stats</h4>
-</br>
+## Stats
 
 <span align="center">
   
@@ -83,12 +52,3 @@ I have created many small web projects to try out frameworks and tools. Lately, 
   
 </span>
 
-<h3 align="center">Thanks for visiting! 👋</h3>
-
------
-
-<center>
-
-![my neighbor totoro wallpaper](https://github.com/JoelFaldin/JoelFaldin/assets/135843731/8a5c113c-0010-4890-bef3-31178725b1f4)
-
-</center>
