@@ -45,10 +45,10 @@
 ## Stats
 
 <span align="center">
-  
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelFaldin&show_icons=true&theme=dark#gh-dark-mode-only)
+
+[![Joel's GitHub stats](https://github-stats-extended.vercel.app/api?username=JoelFaldin&include_all_commits=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelFaldin&layout=compact&theme=dark#gh-dark-mode-only)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JoelFaldin&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=JoelFaldin&langs_count=5&theme=dark)
   
 </span>
 
