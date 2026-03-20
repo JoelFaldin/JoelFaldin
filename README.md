@@ -2,7 +2,7 @@
 
 * Learning programming (web development and systems programming).
 * Just graduated University!
-* From Chile! 🇨🇱
+* From Chile, Santiago! 🇨🇱
 * Linux enthusiast. Currently using [Hyprland](https://hyprland.org/) (by [Vaxry](https://github.com/vaxerski)) via [Omarchy](https://omarchy.org/).
 
 ## Tech Stack
