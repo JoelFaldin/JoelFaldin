@@ -4,7 +4,7 @@
 * Just graduated University!
 * From Chile, Santiago! 🇨🇱
 * Linux enthusiast. Currently using [Hyprland](https://hyprland.org/) (by [Vaxry](https://github.com/vaxerski)) via [Omarchy](https://omarchy.org/).
-* Currently learning docker
+* Currently learning Golang!!!
 
 ## Tech Stack
 
